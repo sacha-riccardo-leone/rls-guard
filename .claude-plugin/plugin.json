@@ -1,0 +1,10 @@
+{
+  "name": "rls-guard",
+  "version": "0.1.0",
+  "description": "Audit and fix Supabase Row Level Security (and Firebase rules) so your vibe-coded app stops leaking data.",
+  "author": { "name": "Sacha", "url": "https://github.com/sacha-riccardo-leone" },
+  "homepage": "https://github.com/sacha-riccardo-leone/rls-guard",
+  "repository": "https://github.com/sacha-riccardo-leone/rls-guard",
+  "license": "MIT",
+  "keywords": ["supabase", "rls", "firebase", "security", "postgres"]
+}

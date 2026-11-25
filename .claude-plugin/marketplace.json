@@ -1,0 +1,17 @@
+{
+  "name": "rls-guard",
+  "owner": {
+    "name": "sacha-riccardo-leone"
+  },
+  "metadata": {
+    "description": "Audit and fix Supabase Row Level Security (and Firebase rules) so your vibe-coded app stops leaking data."
+  },
+  "plugins": [
+    {
+      "name": "rls-guard",
+      "source": "./",
+      "description": "Audit and fix Supabase Row Level Security (and Firebase rules) so your vibe-coded app stops leaking data.",
+      "version": "0.1.0"
+    }
+  ]
+}
